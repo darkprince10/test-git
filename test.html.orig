@@ -2,7 +2,8 @@ first line
 second line
 third line
 <<<<<<< HEAD
-fourth line
-=======
 4th line
->>>>>>> dev
+||||||| parent of 89cd40c (fourth)
+=======
+fourth line
+>>>>>>> 89cd40c (fourth)
