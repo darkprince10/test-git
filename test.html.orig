@@ -1,0 +1,9 @@
+first line
+second line
+third line
+<<<<<<< HEAD
+4th line
+||||||| parent of 89cd40c (fourth)
+=======
+fourth line
+>>>>>>> 89cd40c (fourth)
